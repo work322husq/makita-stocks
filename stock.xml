@@ -17490,7 +17490,7 @@
       <offer id="196845-3">
         <article>196845-3</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="196846-1">
         <article>196846-1</article>
@@ -58697,6 +58697,11 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
+      <offer id="513463-6">
+        <article>513463-6</article>
+        <sale>1</sale>
+        <stock_quantity>15</stock_quantity>
+      </offer>
       <offer id="513469-4">
         <article>513469-4</article>
         <sale>1</sale>
@@ -59499,6 +59504,11 @@
       </offer>
       <offer id="517799-5">
         <article>517799-5</article>
+        <sale>1</sale>
+        <stock_quantity>15</stock_quantity>
+      </offer>
+      <offer id="517808-0">
+        <article>517808-0</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -86795,7 +86805,7 @@
       <offer id="D-47721">
         <article>D-47721</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="D-47743">
         <article>D-47743</article>
@@ -90120,7 +90130,7 @@
       <offer id="DGD800Z">
         <article>DGD800Z</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="DGP180Z">
         <article>DGP180Z</article>
@@ -90190,7 +90200,7 @@
       <offer id="DHP485RFJ">
         <article>DHP485RFJ</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="DHP485Z">
         <article>DHP485Z</article>
@@ -90495,7 +90505,7 @@
       <offer id="DJV186Z">
         <article>DJV186Z</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="DKP180Z">
         <article>DKP180Z</article>
@@ -109960,7 +109970,7 @@
       <offer id="TW0350">
         <article>TW0350</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="TW1000">
         <article>TW1000</article>
