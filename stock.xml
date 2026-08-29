@@ -7427,11 +7427,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="142973-2">
-        <article>142973-2</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="142976-6">
         <article>142976-6</article>
         <sale>1</sale>
@@ -9657,11 +9652,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="158076-2">
-        <article>158076-2</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="158090-8">
         <article>158090-8</article>
         <sale>1</sale>
@@ -9690,7 +9680,7 @@
       <offer id="158131-0">
         <article>158131-0</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="158145-9">
         <article>158145-9</article>
@@ -16560,7 +16550,7 @@
       <offer id="195015-1">
         <article>195015-1</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="195020-8">
         <article>195020-8</article>
@@ -18557,11 +18547,6 @@
         <sale>1</sale>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="210027-4">
-        <article>210027-4</article>
-        <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
-      </offer>
       <offer id="210029-0">
         <article>210029-0</article>
         <sale>1</sale>
@@ -19509,11 +19494,6 @@
       </offer>
       <offer id="212225-6">
         <article>212225-6</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="212229-8">
-        <article>212229-8</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -21602,11 +21582,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="224370-5">
-        <article>224370-5</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="224379-7">
         <article>224379-7</article>
         <sale>1</sale>
@@ -23519,11 +23494,6 @@
       </offer>
       <offer id="231230-4">
         <article>231230-4</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="231240-1">
-        <article>231240-1</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -25874,11 +25844,6 @@
       </offer>
       <offer id="234039-3">
         <article>234039-3</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="234049-0">
-        <article>234049-0</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -28287,11 +28252,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="256569-4">
-        <article>256569-4</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="256571-7">
         <article>256571-7</article>
         <sale>1</sale>
@@ -28584,11 +28544,6 @@
       </offer>
       <offer id="257283-5">
         <article>257283-5</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="257288-5">
-        <article>257288-5</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -29755,7 +29710,7 @@
       <offer id="265131-4">
         <article>265131-4</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="265142-9">
         <article>265142-9</article>
@@ -32330,7 +32285,7 @@
       <offer id="2712">
         <article>2712</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="271319-6">
         <article>271319-6</article>
@@ -35692,11 +35647,6 @@
         <sale>1</sale>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="321248-4">
-        <article>321248-4</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="321261-2">
         <article>321261-2</article>
         <sale>1</sale>
@@ -36620,7 +36570,7 @@
       <offer id="324402-9">
         <article>324402-9</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="324420-7">
         <article>324420-7</article>
@@ -39984,11 +39934,6 @@
       </offer>
       <offer id="344489-5">
         <article>344489-5</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="344491-8">
-        <article>344491-8</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -44635,7 +44580,7 @@
       <offer id="4131">
         <article>4131</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="413102-7">
         <article>413102-7</article>
@@ -47712,11 +47657,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="419238-0">
-        <article>419238-0</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="419240-3">
         <article>419240-3</article>
         <sale>1</sale>
@@ -49325,7 +49265,7 @@
       <offer id="422768-2">
         <article>422768-2</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="422784-4">
         <article>422784-4</article>
@@ -57387,11 +57327,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="510125-7">
-        <article>510125-7</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="510132-0">
         <article>510132-0</article>
         <sale>1</sale>
@@ -63497,11 +63432,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="631932-6">
-        <article>631932-6</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="631937-6">
         <article>631937-6</article>
         <sale>1</sale>
@@ -64594,11 +64524,6 @@
       </offer>
       <offer id="633994-0">
         <article>633994-0</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="634154-7">
-        <article>634154-7</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -65794,11 +65719,6 @@
       </offer>
       <offer id="650523-4">
         <article>650523-4</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="650524-2">
-        <article>650524-2</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -72117,11 +72037,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="911213-7">
-        <article>911213-7</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
       <offer id="911221-8">
         <article>911221-8</article>
         <sale>1</sale>
@@ -73419,11 +73334,6 @@
       </offer>
       <offer id="961108-4">
         <article>961108-4</article>
-        <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
-      </offer>
-      <offer id="961140-8">
-        <article>961140-8</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -77405,7 +77315,7 @@
       <offer id="B-21652">
         <article>B-21652</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="B-21668">
         <article>B-21668</article>
@@ -77495,7 +77405,7 @@
       <offer id="B-22953">
         <article>B-22953</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="B-22969">
         <article>B-22969</article>
@@ -83165,7 +83075,7 @@
       <offer id="D-16019">
         <article>D-16019</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="D-16031">
         <article>D-16031</article>
@@ -91260,7 +91170,7 @@
       <offer id="E-15198">
         <article>E-15198</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="E-15207">
         <article>E-15207</article>
@@ -91290,7 +91200,7 @@
       <offer id="E-15257">
         <article>E-15257</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="E-15291">
         <article>E-15291</article>
@@ -92415,7 +92325,7 @@
       <offer id="GA5040C">
         <article>GA5040C</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="GA5040R">
         <article>GA5040R</article>
@@ -103980,7 +103890,7 @@
       <offer id="P-78807">
         <article>P-78807</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="P-78813">
         <article>P-78813</article>
@@ -111647,11 +111557,6 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
-      <offer id="YA00001178">
-        <article>YA00001178</article>
-        <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
-      </offer>
       <offer id="YA00001179">
         <article>YA00001179</article>
         <sale>1</sale>
@@ -112450,7 +112355,7 @@
       <offer id="b-32269">
         <article>b-32269</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="b-32275">
         <article>b-32275</article>
