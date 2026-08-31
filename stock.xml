@@ -14665,7 +14665,7 @@
       <offer id="1910M3-7">
         <article>1910M3-7</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1910N6-8">
         <article>1910N6-8</article>
@@ -15300,7 +15300,7 @@
       <offer id="191G15-1">
         <article>191G15-1</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="191G16-9">
         <article>191G16-9</article>
@@ -15315,7 +15315,7 @@
       <offer id="191G22-4">
         <article>191G22-4</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="191G24-0">
         <article>191G24-0</article>
@@ -16522,6 +16522,11 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
+      <offer id="194987-7">
+        <article>194987-7</article>
+        <sale>1</sale>
+        <stock_quantity>15</stock_quantity>
+      </offer>
       <offer id="194991-6">
         <article>194991-6</article>
         <sale>1</sale>
@@ -16542,6 +16547,11 @@
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
+      <offer id="195003-8">
+        <article>195003-8</article>
+        <sale>1</sale>
+        <stock_quantity>15</stock_quantity>
+      </offer>
       <offer id="195010-1">
         <article>195010-1</article>
         <sale>1</sale>
@@ -16550,7 +16560,7 @@
       <offer id="195015-1">
         <article>195015-1</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="195020-8">
         <article>195020-8</article>
@@ -17660,7 +17670,7 @@
       <offer id="197941-0">
         <article>197941-0</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="197952-5">
         <article>197952-5</article>
@@ -17965,7 +17975,7 @@
       <offer id="198887-3">
         <article>198887-3</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="198900-7">
         <article>198900-7</article>
@@ -31795,7 +31805,7 @@
       <offer id="267401-7">
         <article>267401-7</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="267414-8">
         <article>267414-8</article>
@@ -34779,6 +34789,11 @@
       </offer>
       <offer id="318454-0">
         <article>318454-0</article>
+        <sale>1</sale>
+        <stock_quantity>15</stock_quantity>
+      </offer>
+      <offer id="318459-0">
+        <article>318459-0</article>
         <sale>1</sale>
         <stock_quantity>15</stock_quantity>
       </offer>
@@ -88735,7 +88750,7 @@
       <offer id="DHP482Z">
         <article>DHP482Z</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="DHP484RTE">
         <article>DHP484RTE</article>
@@ -90085,7 +90100,7 @@
       <offer id="DUN500WZ">
         <article>DUN500WZ</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="DUN600LZ">
         <article>DUN600LZ</article>
@@ -100275,7 +100290,7 @@
       <offer id="P-29228">
         <article>P-29228</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="P-29256">
         <article>P-29256</article>
@@ -104445,7 +104460,7 @@
       <offer id="PO6000C">
         <article>PO6000C</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="PR00000001">
         <article>PR00000001</article>
