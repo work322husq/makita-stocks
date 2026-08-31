@@ -98330,7 +98330,7 @@
       <offer id="M3601">
         <article>M3601</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="M3601B">
         <article>M3601B</article>
@@ -98365,7 +98365,7 @@
       <offer id="M4301">
         <article>M4301</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="M4301B">
         <article>M4301B</article>
@@ -98410,7 +98410,7 @@
       <offer id="M6501">
         <article>M6501</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="M6600">
         <article>M6600</article>
@@ -98460,7 +98460,7 @@
       <offer id="M8700">
         <article>M8700</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="M8700B">
         <article>M8700B</article>
@@ -98530,7 +98530,7 @@
       <offer id="M9800">
         <article>M9800</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="M9800B">
         <article>M9800B</article>
