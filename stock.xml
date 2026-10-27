@@ -88525,7 +88525,7 @@
       <offer id="DJR186Z">
         <article>DJR186Z</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="DJR187Z">
         <article>DJR187Z</article>
@@ -89475,7 +89475,7 @@
       <offer id="DUB363ZV">
         <article>DUB363ZV</article>
         <sale>1</sale>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="DUC101SF">
         <article>DUC101SF</article>
@@ -94215,7 +94215,7 @@
       <offer id="HS7601">
         <article>HS7601</article>
         <sale>1</sale>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="HS7611">
         <article>HS7611</article>
